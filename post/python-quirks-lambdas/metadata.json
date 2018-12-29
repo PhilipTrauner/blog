@@ -1,0 +1,14 @@
+{
+	"date" : 1545834303,
+	"tags" : ["python", "quirk", "lambda", "pattern", "binding"],
+	"license" : {
+		"text" : "by-nc", 
+		"code": "mit"
+	},
+	"description" : "Python lambdas are weird and underpowered... But why?",
+	"section" : "Python",
+	"author" : "Philip Trauner",
+	"read_time_hint" : {
+		"excluded_tags" : ["details", "table"]
+	}
+}
