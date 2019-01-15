@@ -1,0 +1,14 @@
+{
+	"date" : 1547152917,
+	"tags" : ["python", "tip", "internal", "dynamic", "function", "definition", "pattern", "cpython"],
+	"license" : {
+		"text" : "by-nc", 
+		"code": "mit"
+	},
+	"description" : "Function definition in Python can be considered static, right? Wrong!",
+	"section" : "Python",
+	"author" : "Philip Trauner",
+	"read_time_hint" : {
+		"excluded_tags" : ["details"]
+	}
+}
