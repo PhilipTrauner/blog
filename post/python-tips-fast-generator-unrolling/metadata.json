@@ -1,0 +1,14 @@
+{
+	"date" : 1548546906,
+	"tags" : ["python", "tip", "fast", "generator", "unrolling", "performance", "benchmark"],
+	"license" : {
+		"text" : "by-nc", 
+		"code": "mit"
+	},
+	"description" : "There are many ways to unroll generators in Python, but which one is the best?",
+	"section" : "Python",
+	"author" : "Philip Trauner",
+	"read_time_hint" : {
+		"excluded_tags" : ["summary"]
+	}	
+}
