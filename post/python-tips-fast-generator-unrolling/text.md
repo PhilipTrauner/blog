@@ -2,7 +2,7 @@
 
 Generators are computed iterables, which only require a fraction of the space that would normally be necessary to store a fully populated collection in memory. 
 
-While this property is generally beneficial, they also brings along some ergonomic problems:
+While this property is generally beneficial, they also bring along some ergonomic problems:
 
 * No index operator support
 * Cloning is problematic (see [`itertools.tee`](https://docs.python.org/3/library/itertools.html#itertools.tee))
