@@ -37,7 +37,7 @@ In this instance both `help()` and `inspect` do the job, but looking at the actu
 1. `code`  
 	Internally a [`PyCodeObject`](https://github.com/python/cpython/blob/master/Objects/codeobject.c), which is exposed as a [`types.CodeType`](https://docs.python.org/3.7/library/types.html#types.CodeType). 
 	Non-built-in functions have a `__code__` attribute which holds their corresponding code object. 
-	[`types.CodeType`](https://docs.python.org/3.7/library/types.html#types.CodeType) objects can be created at runtime by utilizing the [`compile()`]([`types.CodeType`](https://docs.python.org/3.7/library/types.html#types.CodeType)) built-in.
+	[`types.CodeType`](https://docs.python.org/3.7/library/types.html#types.CodeType) objects can be created at runtime by utilizing the [`compile()`](https://docs.python.org/3/library/functions.html#compile) built-in.
 2. `globals`  
 	If a variable that is being referenced in a function isn't defined locally, passed in as a parameter, provided by a default argument value, or supplied through a closure context, it is looked up in the `globals` dictionary. 
 	The `globals()` built-in function returns a **reference** to the global symbol table of the current module, and can therefor be used to supply a dictionary that is always up-to-date with the current state of said table. Passing in any other dictionary works as well (`FunctionType((lambda: bar).__code__, {"bar" : "baz"}, "foo")() == "baz"`).
