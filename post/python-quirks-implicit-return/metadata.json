@@ -1,0 +1,11 @@
+{
+	"date" : 1551034057,
+	"tags" : ["python", "quirk", "implicit", "return", "none", "internals", "bytecode", "hack"],
+	"license" : {
+		"text" : "by-nc", 
+		"code": "mit"
+	},
+	"description" : "Python function always have to return something, right? Well, its complictated...",
+	"section" : "Python",
+	"author" : "Philip Trauner"
+}
