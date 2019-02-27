@@ -36,7 +36,7 @@ Each instruction is 2 bytes long (`BB`) and consists of an opcode and an optiona
 from struct import unpack
 from dis import opmap
 
-reverse_opmap = {v: k for k, v in opmap.items}
+reverse_opmap = {v: k for k, v in opmap.items()}
 
 
 def foo():
