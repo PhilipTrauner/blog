@@ -10,7 +10,7 @@ As you'll see, that plan didn't quite pan out the way I had hoped it would.
 
 ## Day 1
 
-The laptop arrived at my home address after about two weeks in transit. Upon opening the cardboard box it came in, I was treated to a stench that no other electronics product purchase I ever made reeked of (a mix of cheap plastic and glue). Thankfully that unit itself was not suspect to the same smell.
+The laptop arrived at my home address after about two weeks in transit. Upon opening the cardboard box it came in, I was treated to a stench that no other electronics product I ever purchased reeked of (a mix of cheap plastic and glue). Thankfully that unit itself was not suspect to the same smell.
 
 ### Hardware
 <p align="center">
