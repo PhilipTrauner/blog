@@ -1,0 +1,11 @@
+{
+	"date" : 1552755272,
+	"tags" : ["developer", "diary", "machinectl", "systemd", "login", "autologin", "getty", "override"],
+	"license" : {
+		"text" : "by-nc", 
+		"code": "mit"
+	},
+	"description" : "Circumventing manual password input for fun and profit!",
+	"section" : "machinectl",
+	"author" : "Philip Trauner"
+}
