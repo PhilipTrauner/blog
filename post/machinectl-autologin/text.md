@@ -38,7 +38,7 @@ ExecStart=
 ExecStart=-/sbin/agetty --noclear --autologin root --keep-baud pts/%I 115200,38400,9600 $TERM 
 ```
 
-* The empty space after the first `ExecStart` it there on purpose, as it tells `systemd` to clear the pre-existing `ExecStart` content.
+* The empty space after the first `ExecStart` is there on purpose, as it tells `systemd` to clear the pre-existing `ExecStart` content.
 * Substituting `root` with another user name will instead enable automatic login for the specified user.
 
 ## Notes
