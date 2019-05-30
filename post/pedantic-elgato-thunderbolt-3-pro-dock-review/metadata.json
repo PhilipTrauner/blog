@@ -1,0 +1,10 @@
+{
+	"date" : 1559220860,
+	"tags" : ["pedantic", "review", "elgato", "thunderbolt", "usb-c", "dock", "pedantic"],
+	"license" : {
+		"text" : "by-nc"
+	},
+	"description" : "Overly pedantic review of Elgato's Thunderbolt 3 Pro Dock.",
+	"section" : "technology",
+	"author" : "Philip Trauner"
+}
