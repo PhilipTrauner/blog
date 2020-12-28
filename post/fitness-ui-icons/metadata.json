@@ -1,0 +1,22 @@
+{
+    "date": 1609000853,
+    "description": "Acquiring the official workout icons used across the Apple Health ecosystem is surprisingly difficult.",
+    "section": "Swift",
+    "license": {
+        "text": "by-nc",
+        "code": "mit"
+    },
+    "tags": [
+        "swift",
+        "ios",
+        "healthkit",
+        "fitnessui",
+        "workout",
+        "icon"
+    ],
+    "read_time_hint": {
+        "excluded_tags": [
+            "code"
+        ]
+    }
+}
