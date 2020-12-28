@@ -7,7 +7,7 @@
 	},
 	"description" : "Python lambdas are weird and underpowered... But why?",
 	"section" : "Python",
-	"author" : "Philip Trauner",
+	"author": "philip.trauner@arztpraxis.io",
 	"read_time_hint" : {
 		"excluded_tags" : ["details", "table"]
 	}

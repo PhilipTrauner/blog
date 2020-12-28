@@ -7,7 +7,7 @@
 	},
 	"description" : "Function definition in Python can be considered static, right? Wrong!",
 	"section" : "Python",
-	"author" : "Philip Trauner",
+	"author": "philip.trauner@arztpraxis.io",
 	"read_time_hint" : {
 		"excluded_tags" : ["details"]
 	}

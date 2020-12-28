@@ -7,7 +7,7 @@
 	},
 	"description" : "There are many ways to unroll generators in Python, but which one is the best?",
 	"section" : "Python",
-	"author" : "Philip Trauner",
+	"author": "philip.trauner@arztpraxis.io",
 	"read_time_hint" : {
 		"excluded_tags" : ["summary"]
 	}	
