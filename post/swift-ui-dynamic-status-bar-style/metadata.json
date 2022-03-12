@@ -1,0 +1,20 @@
+{
+    "date": 1647116227,
+    "description": "A minimally invasive approach to dynamically alter the status bar style in SwiftUI 2 projects.",
+    "section": "Swift",
+    "license": {
+        "text": "by-nc",
+        "code": "mit"
+    },
+    "tags": [
+        "swift",
+        "swiftui",
+        "uistatusbar",
+        "swizzling"
+    ],
+    "read_time_hint": {
+        "excluded_tags": [
+            "code"
+        ]
+    }
+}
