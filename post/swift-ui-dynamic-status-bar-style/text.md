@@ -1,4 +1,4 @@
-# SwiftUI 2: Dynamic status bar style
+# SwiftUI: Dynamic status bar style
 
 SwiftUI provides many view modifiers that affect the surrounding view hierarchy, but surprisingly none that alter that status bar style.
 
