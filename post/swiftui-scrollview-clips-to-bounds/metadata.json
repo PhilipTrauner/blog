@@ -1,0 +1,21 @@
+{
+    "date": 1647204537,
+    "description": "ScrollView's clipping behavior can be surprising.",
+    "section": "Swift",
+    "license": {
+        "text": "by-nc",
+        "code": "mit"
+    },
+    "tags": [
+        "swift",
+        "swiftui",
+        "scrollview",
+        "uiscrollview",
+        "shadow"
+    ],
+    "read_time_hint": {
+        "excluded_tags": [
+            "code"
+        ]
+    }
+}
