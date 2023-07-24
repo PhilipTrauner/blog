@@ -17,7 +17,7 @@ this isn't a dig against them, they just chose different battles.
 Threads isn't pitching itself as a decentralized social network though. its "an app built by the Instagram team for sharing with text" ([press statement](https://about.fb.com/news/2023/07/introducing-threads-new-app-text-sharing/)).
 the brand recognition of Instagram, combined with the ongoing instability at Twitter / X, makes it the easy choice for people to flock to.
 
-...and boy are they flocking. Meta was claiming over [70 million sign-ups two days after launch](https://www.theguardian.com/technology/2023/jul/07/mark-zuckerberg-twitter-killer-threads-hits-sign-ups-two-days). even if they are significantly exaggerating, it wouldn't be a surprise if their monthly active user count was to permanently surpass Mastodon's.
+...and boy are they flocking. Meta was claiming over [70 million sign-ups two days after launch](https://www.theguardian.com/technology/2023/jul/07/mark-zuckerberg-twitter-killer-threads-hits-sign-ups-two-days). even if they are significantly exaggerating, it wouldn't be a surprise if their monthly active user count was to permanently surpass all Mastodon instances.
 **only this time, its not a zero-sum game.**
 
 once Threads starts federating, those users will become part of the shared social graph, growing it rapidly.
