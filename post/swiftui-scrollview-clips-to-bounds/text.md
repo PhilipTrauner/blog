@@ -12,6 +12,11 @@ This is the case with `ScrollView`, which internally uses a [`UIScrollView`](htt
 
 ## Solution
 
+### `>=` iOS 17
+Use [`scrollClipDisabled(_:)`](https://developer.apple.com/documentation/swiftui/view/scrollclipdisabled(_:))
+
+### `<` iOS 17
+
 Extending [`UIScrollView`](https://developer.apple.com/documentation/uikit/uiscrollview) works, because [`.clipsToBounds`](https://developer.apple.com/documentation/uikit/uiview/1622415-clipstobounds) is not read-only.
 
 ```swift

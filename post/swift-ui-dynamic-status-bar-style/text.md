@@ -42,6 +42,12 @@ There are [still ways](https://github.com/xavierdonnellon/swiftui-statusbarstyle
 
 ## Solution
 
+### `>=` iOS 16
+
+Use [`toolbarColorScheme(_:for:)`](https://developer.apple.com/documentation/swiftui/view/toolbarcolorscheme(_:for:))
+
+### `<` iOS 16
+
 Since swapping in a custom [`UIHostingController`](https://developer.apple.com/documentation/swiftui/uihostingcontroller) isn't an option, a minimally invasive approach involves swizzling `preferredStatusBarStyle` to point to a computed variable which itself points to a writeable variable.
 
 > Method swizzling is a technique of last resort; you should only use it if you have no other options.
