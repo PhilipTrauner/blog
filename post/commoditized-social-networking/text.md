@@ -8,7 +8,7 @@ the Fediverse, or more accurately the protocol that powers it, ActivityPub, has 
 **many networks (or more accurately servers), one shared graph.**
 
 there are roughly [2 million monthly active Mastodon users](https://mastodon.social/@Gargron/110758117937490286) at the time of writing.
-most of these are enthusiasts, who care deeply about the Fediverse' promise.
+most of them are enthusiasts, who care deeply about the Fediverse' promise.
 
 ...but users of centralized social networks generally don't, otherwise they'd have switched already.
 converting them by touting the benefits of decentralization, interoperability, or privacy *won't work*.
